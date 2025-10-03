@@ -5,7 +5,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1ABC9C&lines=Hi+there+👋,+welcome+to+my+GitHub!;Don’t+forget+to+follow+🚀;Data+Engineer+⚡;BI+Analyst+📊" alt="Typing SVG" />
   </a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+welcome+to+my+GitHub!++;Don%E2%80%99t+forget+to+follow+%F0%9F%9A%80;I'm+Data+Engineer+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1ABC9C&lines=Hi+there+👋,+welcome+to+my+GitHub!;Don’t+forget+to+follow+🚀;I'm+Data+Engineer+⚡;BI+Analyst+📊" alt="Typing SVG" />
+  </a>
 </p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
