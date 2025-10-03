@@ -6,11 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1ABC9C&lines=Hi+there+👋,+welcome+to+my+GitHub!;Don’t+forget+to+follow+🚀;Data+Engineer+⚡;BI+Analyst+📊" alt="Typing SVG" />
   </a>
 </p>
-
-
 <br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
