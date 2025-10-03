@@ -12,7 +12,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Farahat
+👋</h1>
 
 ###
 
@@ -20,7 +21,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Data Engineer from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Data Management tools <br>- ⚡ In my free time I ...</p>
 
 ###
 
