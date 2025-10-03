@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Data Engineer from ....<br><br>- 🔭 💬 Ask me about Data Analysis, Business Intelligence, ETL , ELT , Data modeling , DWH...<br>- 📚 I'm currently learning Data Management tools <br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Data Engineer from ....<br><br>- 🔭 💬 Ask me about Data Analysis, Business Intelligence, ETL, ELT, Data modeling, DWH...<br>- 📚 I'm currently learning Data Management tools <br>- ⚡ In my free time I ...</p>
 
 ###
 
@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
