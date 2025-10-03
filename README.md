@@ -34,10 +34,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="" height="40" alt="ruby logo"  />
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"  />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40"  />  
+    <img width="12" />
 
 </div>
 
