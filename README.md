@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Data Engineer from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Data Management tools <br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Data Engineer from ....<br><br>- 🔭 💬 Ask me about Data Analysis, Business Intelligence, ETL , ELT , Data modeling , DWH...<br>- 📚 I'm currently learning Data Management tools <br>- ⚡ In my free time I ...</p>
 
 ###
 
