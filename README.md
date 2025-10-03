@@ -1,4 +1,4 @@
-<h1 align="center"> 👋, I'm Mahmoud Farahat
+<h1 align="center"> I'm Mahmoud Farahat
 👋</h1>
 
 <p align="center">
