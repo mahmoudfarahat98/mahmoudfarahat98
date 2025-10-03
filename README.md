@@ -21,7 +21,9 @@
 
 ###
 
-<p align="left">I'm a Data Engineer from ....<br><br>- 🔭 💬 Ask me about Data Analysis, Business Intelligence, ETL, ELT, Data modeling, DWH...<br>- 📚 I'm currently learning Data Management tools <br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Data Engineer from ....<br><br>- 🔭 💬 Ask me about Data Analysis, Business Intelligence, ETL, ELT, Data modeling, DWH...<br>- 📚 I'm currently learning Data Management tools <br>- ⚡ 📫 How to reach me mahmoud.farahat98@gmail.com
+
+ ...</p>
 
 ###
 
